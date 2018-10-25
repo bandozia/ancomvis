@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AnComVis.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Projetos_games\AnComVisSource\Intermediate\Build\Win64\AnComVisSourceEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Projetos_games\AnComVisSource\Plugins\AnComVis\Intermediate\Build\Win64\UE4Editor\Development\AnComVis\Module.AnComVis.cpp.obj"
+"E:\Projetos_games\AnComVisSource\Plugins\AnComVis\Intermediate\Build\Win64\UE4Editor\Development\AnComVis\PCLaunch.rc.res"
+/OUT:"E:\Projetos_games\AnComVisSource\Plugins\AnComVis\Intermediate\Build\Win64\UE4Editor\Development\AnComVis\UE4Editor-AnComVis.lib"
